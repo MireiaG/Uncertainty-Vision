@@ -14,6 +14,7 @@ This object includes 5 classes:
   - Proposal Generator for intrinsic variable Focal length: IntrinsicProposal
   - Uncertainty of the detected fiducials measurements: ImageFiducialLikelihood
   - Logger to return accepted and rejected proposals: ProposalLogger
+
 This object incluse 4 methods:
   - To project uncertainties in the world to the image plane: projectWorldUncertaintyToImage
   - Get average and Std Deviation of spherical coordinates: SphericalGeomStats
