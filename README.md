@@ -5,6 +5,7 @@ Scala version: 2.12.8
 
 # Main Libraries
 BoofCV [https://github.com/lessthanoptimal/BoofCV/tree/v0.34]
+
 Scalismo [https://github.com/unibas-gravis/scalismo]
 
 # Object: UncertaintyVision
